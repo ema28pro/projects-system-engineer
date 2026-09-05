@@ -14,89 +14,95 @@ Este repositorio consolida **más de 80 proyectos de portafolio de nivel profesi
 
 ## 🏛️ Estructura del Repositorio
 
-El repositorio se organiza de forma simétrica en **3 grandes módulos**, emparejando cada carpeta de microcurrículos oficiales (PDFs) con su correspondiente carpeta de especificaciones de proyectos (Markdown):
+El repositorio conserva la organización en carpetas que ya conoces, agrupando los microcurrículos oficiales (PDFs) con sus correspondientes guías de proyectos (Markdown), distinguiendo claramente el perfil de cada conjunto:
 
 ```text
 proyectos x materias/
 │
-├── README.md                              <-- Este documento (Guía Maestra)
+├── README.md                              <-- Este documento (Guía Maestra y Malla Curricular)
 │
-├── materias_vistas/                       <-- 18 PDFs oficiales (Ciclo de fundamentación)
-├── proyectos_materias_vistas/             <-- 19 Guías Markdown con proyectos técnicos
+├── materias_vistas/                       <-- 18 PDFs oficiales (Asignaturas cursadas: Niveles 1 al 5)
+├── proyectos_materias_vistas/             <-- 18 Guías Markdown con proyectos técnicos (Niveles 1 al 5)
 │
-├── materias_por_ver/                      <-- 14 PDFs oficiales (Niveles 6, 7 y 8)
-├── proyectos_materias_por_ver/            <-- 15 Guías Markdown con proyectos avanzados
+├── materias_por_ver/                      <-- 14 PDFs oficiales (Asignaturas avanzadas: Niveles 6, 7 y 8)
+├── proyectos_materias_por_ver/            <-- 14 Guías Markdown con proyectos de ciclo profesional
 │
-├── materias_transversales/                <-- 5 PDFs oficiales (Institucionales y ciencias)
-└── proyectos_materias_transversales/      <-- 7 Guías Markdown (incluye English 5)
+├── materias_transversales/                <-- 5 PDFs oficiales (Materias no tan técnicas / complementarias)
+└── proyectos_materias_transversales/      <-- 6 Guías Markdown (Formación complementaria, ética, inglés)
 ```
 
----
-
-## 📚 Módulos y Navegación Rápida
-
-### 1. [Materias Vistas (Ciclo de Fundamentación)](proyectos_materias_vistas/00_INDICE_GENERAL.md)
-> **18 asignaturas** que cubren las ciencias básicas, matemáticas discretas, el núcleo de programación y la algoritmia profunda.  
-> 🔗 **[Abrir Índice General de Materias Vistas](proyectos_materias_vistas/00_INDICE_GENERAL.md)**
-
-| # | Código | Asignatura | Guía de Proyectos |
-| :-: | :---: | :--- | :--- |
-| 01 | 2559121 | **Geometría Vectorial y Analítica** | [Ver Guía](proyectos_materias_vistas/01_2559121_geometria_vectorial_y_analitica.md) |
-| 02 | 2559131 | **Cálculo Diferencial** | [Ver Guía](proyectos_materias_vistas/02_2559131_calculo_diferencial.md) |
-| 03 | 2559231 | **Cálculo Integral** | [Ver Guía](proyectos_materias_vistas/03_2559231_calculo_integral.md) |
-| 04 | 2559221 | **Álgebra Lineal** | [Ver Guía](proyectos_materias_vistas/04_2559221_algebra_lineal.md) |
-| 05 | 2567201 | **Física Mecánica** | [Ver Guía](proyectos_materias_vistas/05_2567201_fisica_mecanica.md) |
-| 06 | 2554207 | **Matemáticas Discretas I** | [Ver Guía](proyectos_materias_vistas/06_2554207_matematicas_discretas_I.md) |
-| 07 | 2554303 | **Matemáticas Discretas II** | [Ver Guía](proyectos_materias_vistas/07_2554303_matematicas_discretas_II.md) |
-| 08 | 2554208 | **Lógica y Representación I** | [Ver Guía](proyectos_materias_vistas/08_2554208_logica_y_representacion_I.md) |
-| 09 | 2554306 | **Lógica y Representación II** | [Ver Guía](proyectos_materias_vistas/09_2554306_logica_y_representacion_II.md) |
-| 10 | 2554402 | **Lógica y Representación III** | [Ver Guía](proyectos_materias_vistas/10_2554402_logica_y_representacion_III.md) |
-| 11 | 2554307 | **Técnicas de Programación y Laboratorio** | [Ver Guía](proyectos_materias_vistas/11_2554307_tecnicas_de_programacion_y_laboratorio.md) |
-| 12 | 2554507 | **Estructuras de Datos y Laboratorio** | [Ver Guía](proyectos_materias_vistas/12_2554507_estructuras_de_datos_y_laboratorio.md) |
-| 13 | 2554508 | **Teoría de Lenguajes y Laboratorio** | [Ver Guía](proyectos_materias_vistas/13_2554508_teoria_de_lenguajes_y_laboratorio.md) |
-| 14 | 2554403 | **Análisis y Diseño de Sistemas I** | [Ver Guía](proyectos_materias_vistas/14_2554403_analisis_y_diseno_de_sistemas_I.md) |
-| 15 | 2554506 | **Análisis y Diseño de Sistemas II** | [Ver Guía](proyectos_materias_vistas/15_2554506_analisis_y_diseno_de_sistemas_II.md) |
-| 16 | 2554308 | **Teoría de la Probabilidad y Colas** | [Ver Guía](proyectos_materias_vistas/16_2554308_teoria_de_la_probabilidad_y_colas.md) |
-| 17 | 2554408 | **Métodos Estadísticos** | [Ver Guía](proyectos_materias_vistas/17_2554408_metodos_estadisticos.md) |
-| 18 | 2554407 | **Ecuaciones Diferenciales y Métodos Numéricos** | [Ver Guía](proyectos_materias_vistas/18_2554407_ecuaciones_diferenciales_y_metodos_numericos.md) |
+> [!NOTE]
+> **Aclaración sobre los grupos de materias:**
+> * **`materias_vistas`:** Agrupa las asignaturas técnicas y de ciencias básicas que ya han sido cursadas, las cuales **pertenecen a distintos niveles (semestres) de la carrera (Nivel 1 al Nivel 5)**.
+> * **`materias_por_ver`:** Corresponde a los niveles avanzados y terminales del núcleo profesional (**Niveles 6, 7 y 8**).
+> * **`materias_transversales`:** Aunque la carpeta conserva ese nombre, **no son simplemente asignaturas transversales**, sino materias apartadas deliberadamente porque **no son de corte puramente técnico o de desarrollo de software duro**, sino de formación complementaria, institucional, comunicativa, ética y lingüística distribuidas en varios semestres (Niveles 1, 2, 4, 6 y 9).
 
 ---
 
-### 2. [Materias por Ver (Niveles 6, 7 y 8 - Ciclo Profesional y Terminal)](proyectos_materias_por_ver/00_INDICE_GENERAL_ETAPA2.md)
-> **14 asignaturas** de ciclo avanzado que cubren arquitectura distribuida, bases de datos a escala, redes avanzadas, sistemas operativos, machine learning, MLOps, aseguramiento de calidad y proyectos capstone.  
-> 🔗 **[Abrir Índice General de Materias por Ver](proyectos_materias_por_ver/00_INDICE_GENERAL_ETAPA2.md)**
+## 📚 Módulos y Navegación por Grupos de Materias
 
-| # | Nivel | Código | Asignatura | Guía de Proyectos |
-| :-: | :-: | :---: | :--- | :--- |
-| 01 | 6 | 2554608 | **Arquitectura de Software** | [Ver Guía](proyectos_materias_por_ver/01_2554608_arquitectura_de_software.md) |
-| 02 | 6 | 2554609 | **Bases de Datos y Laboratorio** | [Ver Guía](proyectos_materias_por_ver/02_2554609_bases_de_datos_y_laboratorio.md) |
-| 03 | 6 | 2554610 | **Comunicaciones y Laboratorio** | [Ver Guía](proyectos_materias_por_ver/03_2554610_comunicaciones_y_laboratorio.md) |
-| 04 | 6 | 2554509 | **Modelos y Simulación de Sistemas I (MLOps)** | [Ver Guía](proyectos_materias_por_ver/04_2554509_modelos_y_simulacion_de_sistemas_I.md) |
-| 05 | 6 | 2554700 | **Proyecto Integrador I** | [Ver Guía](proyectos_materias_por_ver/05_2554700_proyecto_integrador_I.md) |
-| 06 | 7 | 2554702 | **Fundamentos de Sistemas de Información** | [Ver Guía](proyectos_materias_por_ver/06_2554702_fundamentos_de_sistemas_de_informacion.md) |
-| 07 | 7 | 2554703 | **Calidad de Software** | [Ver Guía](proyectos_materias_por_ver/07_2554703_calidad_de_software.md) |
-| 08 | 7 | 2554716 | **Arquitectura de Computadores y Laboratorio** | [Ver Guía](proyectos_materias_por_ver/08_2554716_arquitectura_de_computadores_y_laboratorio.md) |
-| 09 | 7 | 2554611 | **Modelos y Simulación de Sistemas II (ML)** | [Ver Guía](proyectos_materias_por_ver/09_2554611_modelos_y_simulacion_de_sistemas_II.md) |
-| 10 | 8 | 2554701 | **Fundamentos de Investigación** | [Ver Guía](proyectos_materias_por_ver/10_2554701_fundamentos_de_investigacion.md) |
-| 11 | 8 | 2554840 | **Comunicaciones II** | [Ver Guía](proyectos_materias_por_ver/11_2554840_comunicaciones_II.md) |
-| 12 | 8 | 2554841 | **Gestión de Proyectos de SI (DevOps)** | [Ver Guía](proyectos_materias_por_ver/12_2554841_gestion_de_proyectos_de_sistemas_de_informacion.md) |
-| 13 | 8 | 2554842 | **Sistemas Operativos y Laboratorio** | [Ver Guía](proyectos_materias_por_ver/13_2554842_sistemas_operativos_y_laboratorio.md) |
-| 14 | 8 | 2554902 | **Proyecto Integrador II - Área Electiva** | [Ver Guía](proyectos_materias_por_ver/14_2554902_proyecto_integrador_II.md) |
+### 1. [Materias Vistas (Niveles 1 al 5)](proyectos_materias_vistas/00_INDICE_GENERAL.md)
+> Asignaturas técnicas de programación, algoritmia, sistemas y matemáticas que conforman los **primeros 5 niveles (semestres) de la carrera**.  
+> 🔗 **[Abrir Índice Detallado de Materias Vistas](proyectos_materias_vistas/00_INDICE_GENERAL.md)**
+
+| # | Nivel | Código | Créditos | Asignatura | Guía de Proyectos |
+| :-: | :-: | :---: | :-: | :--- | :--- |
+| 01 | **1** | 2559121 | 3 | **Geometría Vectorial y Analítica** | [Ver Guía](proyectos_materias_vistas/01_2559121_geometria_vectorial_y_analitica.md) |
+| 02 | **1** | 2559131 | 3 | **Cálculo Diferencial** | [Ver Guía](proyectos_materias_vistas/02_2559131_calculo_diferencial.md) |
+| 03 | **2** | 2554207 | 3 | **Matemáticas Discretas I** | [Ver Guía](proyectos_materias_vistas/06_2554207_matematicas_discretas_I.md) |
+| 04 | **2** | 2554208 | 3 | **Lógica y Representación I** | [Ver Guía](proyectos_materias_vistas/08_2554208_logica_y_representacion_I.md) |
+| 05 | **2** | 2559221 | 3 | **Álgebra Lineal** | [Ver Guía](proyectos_materias_vistas/04_2559221_algebra_lineal.md) |
+| 06 | **2** | 2559231 | 3 | **Cálculo Integral** | [Ver Guía](proyectos_materias_vistas/03_2559231_calculo_integral.md) |
+| 07 | **3** | 2554303 | 3 | **Matemáticas Discretas II** | [Ver Guía](proyectos_materias_vistas/07_2554303_matematicas_discretas_II.md) |
+| 08 | **3** | 2554306 | 3 | **Lógica y Representación II** | [Ver Guía](proyectos_materias_vistas/09_2554306_logica_y_representacion_II.md) |
+| 09 | **3** | 2554307 | 4 | **Técnicas de Programación y Laboratorio** | [Ver Guía](proyectos_materias_vistas/11_2554307_tecnicas_de_programacion_y_laboratorio.md) |
+| 10 | **3** | 2567201 | 3 | **Física Mecánica** | [Ver Guía](proyectos_materias_vistas/05_2567201_fisica_mecanica.md) |
+| 11 | **3** | 2554308 | 4 | **Teoría de la Probabilidad y Colas** | [Ver Guía](proyectos_materias_vistas/16_2554308_teoria_de_la_probabilidad_y_colas.md) |
+| 12 | **4** | 2554402 | 4 | **Lógica y Representación III** | [Ver Guía](proyectos_materias_vistas/10_2554402_logica_y_representacion_III.md) |
+| 13 | **4** | 2554403 | 4 | **Análisis y Diseño de Sistemas I** | [Ver Guía](proyectos_materias_vistas/14_2554403_analisis_y_diseno_de_sistemas_I.md) |
+| 14 | **4** | 2554408 | 3 | **Métodos Estadísticos** | [Ver Guía](proyectos_materias_vistas/17_2554408_metodos_estadisticos.md) |
+| 15 | **4** | 2554407 | 3 | **Ecuaciones Diferenciales y Métodos Numéricos** | [Ver Guía](proyectos_materias_vistas/18_2554407_ecuaciones_diferenciales_y_metodos_numericos.md) |
+| 16 | **5** | 2554508 | 4 | **Teoría de Lenguajes y Laboratorio** | [Ver Guía](proyectos_materias_vistas/13_2554508_teoria_de_lenguajes_y_laboratorio.md) |
+| 17 | **5** | 2554506 | 3 | **Análisis y Diseño de Sistemas II** | [Ver Guía](proyectos_materias_vistas/15_2554506_analisis_y_diseno_de_sistemas_II.md) |
+| 18 | **5** | 2554507 | 4 | **Estructuras de Datos y Laboratorio** | [Ver Guía](proyectos_materias_vistas/12_2554507_estructuras_de_datos_y_laboratorio.md) |
 
 ---
 
-### 3. [Materias Transversales e Institucionales](proyectos_materias_transversales/00_INDICE_GENERAL_TRANSVERSALES.md)
-> **6 asignaturas** de formación transversal, pensamiento sistémico, física introductoria, comunicación científica, marco constitucional, ética profesional e inglés técnico para ingenieros.  
-> 🔗 **[Abrir Índice General de Materias Transversales](proyectos_materias_transversales/00_INDICE_GENERAL_TRANSVERSALES.md)**
+### 2. [Materias por Ver (Niveles 6, 7 y 8)](proyectos_materias_por_ver/00_INDICE_GENERAL_ETAPA2.md)
+> Asignaturas de ciclo avanzado y terminal que cubren arquitectura distribuida, bases de datos a escala, redes avanzadas, sistemas operativos, simulación, calidad de software y proyectos integradores.  
+> 🔗 **[Abrir Índice Detallado de Materias por Ver](proyectos_materias_por_ver/00_INDICE_GENERAL_ETAPA2.md)**
 
-| # | Código | Asignatura | Guía de Proyectos |
-| :-: | :---: | :--- | :--- |
-| 01 | 2554120 | **Introducción a la Ingeniería de Sistemas** | [Ver Guía](proyectos_materias_transversales/01_2554120_introduccion_a_la_ingenieria_de_sistemas.md) |
-| 02 | 2567101 | **Descubriendo la Física** | [Ver Guía](proyectos_materias_transversales/02_2567101_descubriendo_la_fisica.md) |
-| 03 | 2539130 | **Español Académico** | [Ver Guía](proyectos_materias_transversales/03_2539130_espanol_academico.md) |
-| 04 | 2517450 | **Cátedra de Formación Ciudadana y Constitucional** | [Ver Guía](proyectos_materias_transversales/04_2517450_catedra_de_formacion_ciudadana_y_constitucional.md) |
-| 05 | 2554836 | **Ética Profesional** | [Ver Guía](proyectos_materias_transversales/05_2554836_etica_profesional.md) |
-| 06 | 9025105 | **English 5 (Technical English for Engineers)** | [Ver Guía](proyectos_materias_transversales/06_9025105_english_5.md) |
+| # | Nivel | Código | Créditos | Asignatura | Guía de Proyectos |
+| :-: | :-: | :---: | :-: | :--- | :--- |
+| 01 | **6** | 2554608 | 3 | **Arquitectura de Software** | [Ver Guía](proyectos_materias_por_ver/01_2554608_arquitectura_de_software.md) |
+| 02 | **6** | 2554609 | 4 | **Bases de Datos y Laboratorio** | [Ver Guía](proyectos_materias_por_ver/02_2554609_bases_de_datos_y_laboratorio.md) |
+| 03 | **6** | 2554610 | 4 | **Comunicaciones y Laboratorio** | [Ver Guía](proyectos_materias_por_ver/03_2554610_comunicaciones_y_laboratorio.md) |
+| 04 | **6** | 2554509 | 3 | **Modelos y Simulación de Sistemas I** | [Ver Guía](proyectos_materias_por_ver/04_2554509_modelos_y_simulacion_de_sistemas_I.md) |
+| 05 | **6** | 2554700 | 2 | **Proyecto Integrador I** | [Ver Guía](proyectos_materias_por_ver/05_2554700_proyecto_integrador_I.md) |
+| 06 | **7** | 2554702 | 3 | **Fundamentos de Sistemas de Información** | [Ver Guía](proyectos_materias_por_ver/06_2554702_fundamentos_de_sistemas_de_informacion.md) |
+| 07 | **7** | 2554703 | 3 | **Calidad de Software** | [Ver Guía](proyectos_materias_por_ver/07_2554703_calidad_de_software.md) |
+| 08 | **7** | 2554716 | 4 | **Arquitectura de Computadores y Laboratorio** | [Ver Guía](proyectos_materias_por_ver/08_2554716_arquitectura_de_computadores_y_laboratorio.md) |
+| 09 | **7** | 2554611 | 4 | **Modelos y Simulación de Sistemas II** | [Ver Guía](proyectos_materias_por_ver/09_2554611_modelos_y_simulacion_de_sistemas_II.md) |
+| 10 | **8** | 2554701 | 3 | **Fundamentos de Investigación** | [Ver Guía](proyectos_materias_por_ver/10_2554701_fundamentos_de_investigacion.md) |
+| 11 | **8** | 2554840 | 3 | **Comunicaciones II** | [Ver Guía](proyectos_materias_por_ver/11_2554840_comunicaciones_II.md) |
+| 12 | **8** | 2554841 | 3 | **Gestión de Proyectos de Sistemas de Información** | [Ver Guía](proyectos_materias_por_ver/12_2554841_gestion_de_proyectos_de_sistemas_de_informacion.md) |
+| 13 | **8** | 2554842 | 4 | **Sistemas Operativos y Laboratorio** | [Ver Guía](proyectos_materias_por_ver/13_2554842_sistemas_operativos_y_laboratorio.md) |
+| 14 | **8** | 2554902 | 2 | **Proyecto Integrador II - Área Electiva** | [Ver Guía](proyectos_materias_por_ver/14_2554902_proyecto_integrador_II.md) |
+
+---
+
+### 3. [Materias Complementarias / No Técnicas](proyectos_materias_transversales/00_INDICE_GENERAL_TRANSVERSALES.md)
+> Asignaturas apartadas en esta carpeta porque **no son materias de desarrollo o ingeniería técnica dura**, sino de formación complementaria, institucional, comunicación científica, marco legal/cívico, ética profesional e idiomas, ubicadas en distintos semestres del plan de estudios (Niveles 1, 2, 4, 6 y 9).  
+> 🔗 **[Abrir Índice de Materias Complementarias](proyectos_materias_transversales/00_INDICE_GENERAL_TRANSVERSALES.md)**
+
+| # | Nivel | Código | Créditos | Asignatura | Enfoque / Aplicación | Guía de Proyectos |
+| :-: | :-: | :---: | :-: | :--- | :--- | :--- |
+| 01 | **1** | 2554120 | 1 | **Introducción a la Ingeniería de Sistemas** | Pensamiento Sistémico y Ecosistema de TI | [Ver Guía](proyectos_materias_transversales/01_2554120_introduccion_a_la_ingenieria_de_sistemas.md) |
+| 02 | **1** | 2567101 | 3 | **Descubriendo la Física** | Física Conceptual y Simulación | [Ver Guía](proyectos_materias_transversales/02_2567101_descubriendo_la_fisica.md) |
+| 03 | **2** | 2539130 | 3 | **Español Académico** | Redacción Científica y Comunicación | [Ver Guía](proyectos_materias_transversales/03_2539130_espanol_academico.md) |
+| 04 | **4** | 2517450 | 1 | **Cátedra de Formación Ciudadana y Constitucional** | CivicTech, LegalTech y Datos Abiertos | [Ver Guía](proyectos_materias_transversales/04_2517450_catedra_de_formacion_ciudadana_y_constitucional.md) |
+| 05 | **6** | 9025105 | 2 | **English 5 (Technical English for Engineers)** | Documentación y Comunicación Técnica Global | [Ver Guía](proyectos_materias_transversales/06_9025105_english_5.md) |
+| 06 | **9** | 2554836 | 1 | **Ética Profesional** | Ética Algorítmica, Ley 842 y Gobernanza | [Ver Guía](proyectos_materias_transversales/05_2554836_etica_profesional.md) |
 
 ---
 

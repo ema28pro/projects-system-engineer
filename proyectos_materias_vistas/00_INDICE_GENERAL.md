@@ -1,9 +1,11 @@
-# Hoja de Ruta y Portafolio de Proyectos por Materia
+# Hoja de Ruta y Portafolio de Proyectos por Materia (Materias Vistas)
 ### Programa Oficial de Ingeniería de Sistemas – Universidad de Antioquia (UdeA)
 
-Bienvenido a la guía exhaustiva de proyectos de software, algoritmia y modelado matemático estructurada a partir de los **18 microcurrículos oficiales** de tu carrera.
+Bienvenido a la guía exhaustiva de proyectos de software, algoritmia y modelado matemático para las **18 materias técnicas vistas**.
 
-Cada documento Markdown en esta carpeta ha sido diseñado minuciosamente para que los proyectos **coincidan al 100% con los saberes, metodologías y unidades temáticas** estipuladas en los programas oficiales aprobados por el Consejo de la Facultad de Ingeniería de la UdeA.
+> [!NOTE]
+> **Organización por Niveles:**  
+> Estas asignaturas corresponden a los **primeros 5 niveles (semestres) de la carrera**. No corresponden a un solo bloque cerrado, sino al avance progresivo a través de los semestres 1 a 5 en ciencias básicas, matemáticas discretas, algoritmia, estructuras de datos y desarrollo de software.
 
 > [!TIP]
 > **Pensum Oficial (Programa 506 - Versión 5):**  
@@ -12,9 +14,51 @@ Cada documento Markdown en esta carpeta ha sido diseñado minuciosamente para qu
 
 ---
 
-## 🗺️ Mapa Curricular y Enlaces a los Documentos por Materia
+## 🗓️ Distribución por Niveles (Semestres 1 al 5)
 
-Los 18 cursos se organizan en 4 grandes ejes formativos:
+### 📌 Nivel 1
+| Código | Créditos | Asignatura | Enlace al Documento de Proyectos |
+| :---: | :---: | :--- | :--- |
+| 2559121 | 3 | **Geometría Vectorial y Analítica** | [Ver Proyectos](01_2559121_geometria_vectorial_y_analitica.md) |
+| 2559131 | 3 | **Cálculo Diferencial** | [Ver Proyectos](02_2559131_calculo_diferencial.md) |
+
+### 📌 Nivel 2
+| Código | Créditos | Asignatura | Enlace al Documento de Proyectos |
+| :---: | :---: | :--- | :--- |
+| 2554207 | 3 | **Matemáticas Discretas I** | [Ver Proyectos](06_2554207_matematicas_discretas_I.md) |
+| 2554208 | 3 | **Lógica y Representación I** | [Ver Proyectos](08_2554208_logica_y_representacion_I.md) |
+| 2559221 | 3 | **Álgebra Lineal** | [Ver Proyectos](04_2559221_algebra_lineal.md) |
+| 2559231 | 3 | **Cálculo Integral** | [Ver Proyectos](03_2559231_calculo_integral.md) |
+
+### 📌 Nivel 3
+| Código | Créditos | Asignatura | Enlace al Documento de Proyectos |
+| :---: | :---: | :--- | :--- |
+| 2554303 | 3 | **Matemáticas Discretas II** | [Ver Proyectos](07_2554303_matematicas_discretas_II.md) |
+| 2554306 | 3 | **Lógica y Representación II** | [Ver Proyectos](09_2554306_logica_y_representacion_II.md) |
+| 2554307 | 4 | **Técnicas de Programación y Laboratorio** | [Ver Proyectos](11_2554307_tecnicas_de_programacion_y_laboratorio.md) |
+| 2567201 | 3 | **Física Mecánica** | [Ver Proyectos](05_2567201_fisica_mecanica.md) |
+| 2554308 | 4 | **Teoría de la Probabilidad y Colas** | [Ver Proyectos](16_2554308_teoria_de_la_probabilidad_y_colas.md) |
+
+### 📌 Nivel 4
+| Código | Créditos | Asignatura | Enlace al Documento de Proyectos |
+| :---: | :---: | :--- | :--- |
+| 2554402 | 4 | **Lógica y Representación III** | [Ver Proyectos](10_2554402_logica_y_representacion_III.md) |
+| 2554403 | 4 | **Análisis y Diseño de Sistemas I** | [Ver Proyectos](14_2554403_analisis_y_diseno_de_sistemas_I.md) |
+| 2554408 | 3 | **Métodos Estadísticos** | [Ver Proyectos](17_2554408_metodos_estadisticos.md) |
+| 2554407 | 3 | **Ecuaciones Diferenciales y Métodos Numéricos** | [Ver Proyectos](18_2554407_ecuaciones_diferenciales_y_metodos_numericos.md) |
+
+### 📌 Nivel 5
+| Código | Créditos | Asignatura | Enlace al Documento de Proyectos |
+| :---: | :---: | :--- | :--- |
+| 2554508 | 4 | **Teoría de Lenguajes y Laboratorio** | [Ver Proyectos](13_2554508_teoria_de_lenguajes_y_laboratorio.md) |
+| 2554506 | 3 | **Análisis y Diseño de Sistemas II** | [Ver Proyectos](15_2554506_analisis_y_diseno_de_sistemas_II.md) |
+| 2554507 | 4 | **Estructuras de Datos y Laboratorio** | [Ver Proyectos](12_2554507_estructuras_de_datos_y_laboratorio.md) |
+
+---
+
+## 🗺️ Clasificación por Ejes Formativos
+
+Los 18 cursos también pueden analizarse a través de 4 grandes ejes formativos:
 
 ### 💻 Eje 1: Programación, Algoritmia y Big Data
 | # | Código | Asignatura | Enlace al Documento de Proyectos |

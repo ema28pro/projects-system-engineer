@@ -54,34 +54,34 @@ graph TD
 ## 📋 Lista de Asignaturas y Enlaces a sus Proyectos
 
 ### 🚀 Nivel 6
-| # | Código | Asignatura | Enlace al Documento de Proyectos |
-| :-: | :---: | :--- | :--- |
-| **01** | 2554608 | **Arquitectura de Software** | [Ver Proyectos](01_2554608_arquitectura_de_software.md) |
-| **02** | 2554609 | **Bases de Datos y Laboratorio** | [Ver Proyectos](02_2554609_bases_de_datos_y_laboratorio.md) |
-| **03** | 2554610 | **Comunicaciones y Laboratorio** | [Ver Proyectos](03_2554610_comunicaciones_y_laboratorio.md) |
-| **04** | 2554509 | **Modelos y Simulación de Sistemas I (MLOps)** | [Ver Proyectos](04_2554509_modelos_y_simulacion_de_sistemas_I.md) |
-| **05** | 2554700 | **Proyecto Integrador I** | [Ver Proyectos](05_2554700_proyecto_integrador_I.md) |
+| # | Código | Créditos | Asignatura | Enlace al Documento de Proyectos |
+| :-: | :---: | :-: | :--- | :--- |
+| **01** | 2554608 | 3 | **Arquitectura de Software** | [Ver Proyectos](01_2554608_arquitectura_de_software.md) |
+| **02** | 2554609 | 4 | **Bases de Datos y Laboratorio** | [Ver Proyectos](02_2554609_bases_de_datos_y_laboratorio.md) |
+| **03** | 2554610 | 4 | **Comunicaciones y Laboratorio** | [Ver Proyectos](03_2554610_comunicaciones_y_laboratorio.md) |
+| **04** | 2554509 | 3 | **Modelos y Simulación de Sistemas I (MLOps)** | [Ver Proyectos](04_2554509_modelos_y_simulacion_de_sistemas_I.md) |
+| **05** | 2554700 | 2 | **Proyecto Integrador I** | [Ver Proyectos](05_2554700_proyecto_integrador_I.md) |
 
 ---
 
 ### ⚙️ Nivel 7
-| # | Código | Asignatura | Enlace al Documento de Proyectos |
-| :-: | :---: | :--- | :--- |
-| **06** | 2554702 | **Fundamentos de Sistemas de Información** | [Ver Proyectos](06_2554702_fundamentos_de_sistemas_de_informacion.md) |
-| **07** | 2554703 | **Calidad de Software** | [Ver Proyectos](07_2554703_calidad_de_software.md) |
-| **08** | 2554716 | **Arquitectura de Computadores y Laboratorio** | [Ver Proyectos](08_2554716_arquitectura_de_computadores_y_laboratorio.md) |
-| **09** | 2554611 | **Modelos y Simulación de Sistemas II (Machine Learning)** | [Ver Proyectos](09_2554611_modelos_y_simulacion_de_sistemas_II.md) |
+| # | Código | Créditos | Asignatura | Enlace al Documento de Proyectos |
+| :-: | :---: | :-: | :--- | :--- |
+| **06** | 2554702 | 3 | **Fundamentos de Sistemas de Información** | [Ver Proyectos](06_2554702_fundamentos_de_sistemas_de_informacion.md) |
+| **07** | 2554703 | 3 | **Calidad de Software** | [Ver Proyectos](07_2554703_calidad_de_software.md) |
+| **08** | 2554716 | 4 | **Arquitectura de Computadores y Laboratorio** | [Ver Proyectos](08_2554716_arquitectura_de_computadores_y_laboratorio.md) |
+| **09** | 2554611 | 4 | **Modelos y Simulación de Sistemas II (Machine Learning)** | [Ver Proyectos](09_2554611_modelos_y_simulacion_de_sistemas_II.md) |
 
 ---
 
 ### 🛡️ Nivel 8
-| # | Código | Asignatura | Enlace al Documento de Proyectos |
-| :-: | :---: | :--- | :--- |
-| **10** | 2554701 | **Fundamentos de Investigación** | [Ver Proyectos](10_2554701_fundamentos_de_investigacion.md) |
-| **11** | 2554840 | **Comunicaciones II** | [Ver Proyectos](11_2554840_comunicaciones_II.md) |
-| **12** | 2554841 | **Gestión de Proyectos de Sistemas de Información** | [Ver Proyectos](12_2554841_gestion_de_proyectos_de_sistemas_de_informacion.md) |
-| **13** | 2554842 | **Sistemas Operativos y Laboratorio** | [Ver Proyectos](13_2554842_sistemas_operativos_y_laboratorio.md) |
-| **14** | 2554902 | **Proyecto Integrador II - Área Electiva** | [Ver Proyectos](14_2554902_proyecto_integrador_II.md) |
+| # | Código | Créditos | Asignatura | Enlace al Documento de Proyectos |
+| :-: | :---: | :-: | :--- | :--- |
+| **10** | 2554701 | 3 | **Fundamentos de Investigación** | [Ver Proyectos](10_2554701_fundamentos_de_investigacion.md) |
+| **11** | 2554840 | 3 | **Comunicaciones II** | [Ver Proyectos](11_2554840_comunicaciones_II.md) |
+| **12** | 2554841 | 3 | **Gestión de Proyectos de Sistemas de Información** | [Ver Proyectos](12_2554841_gestion_de_proyectos_de_sistemas_de_informacion.md) |
+| **13** | 2554842 | 4 | **Sistemas Operativos y Laboratorio** | [Ver Proyectos](13_2554842_sistemas_operativos_y_laboratorio.md) |
+| **14** | 2554902 | 2 | **Proyecto Integrador II - Área Electiva** | [Ver Proyectos](14_2554902_proyecto_integrador_II.md) |
 
 ---
 

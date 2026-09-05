@@ -1,9 +1,11 @@
-# Hoja de Ruta y Portafolio de Proyectos – Materias Transversales e Institucionales
+# Hoja de Ruta y Portafolio de Proyectos – Materias Complementarias e Institucionales (No Técnicas)
 ### Programa Oficial de Ingeniería de Sistemas – Universidad de Antioquia (UdeA)
 
-Bienvenido a la guía de proyectos para el componente de **Formación Integral, Ciencias Básicas Complementarias, Lengua Extranjera y Transversales** del programa de Ingeniería de Sistemas de la UdeA.
+Bienvenido a la guía de proyectos para las materias de formación complementaria, institucional, comunicativa, ética y lingüística del programa de Ingeniería de Sistemas de la UdeA.
 
-A menudo se subestiman estas materias considerándolas "teóricas"; sin embargo, en el mundo profesional moderno, la capacidad de **argumentar con rigor, comunicarse en inglés técnico internacional, liderar éticamente y aplicar tecnología cívica (GovTech / LegalTech / AI Ethics)** es precisamente lo que diferencia a un programador de un **Ingeniero Líder de Sistemas**.
+> [!NOTE]
+> **Por qué están en esta carpeta:**  
+> Aunque la carpeta se denomina históricamente `materias_transversales`, estas asignaturas **no son meramente transversales**: fueron apartadas deliberadamente en este grupo porque **no son materias de corte puramente técnico o de desarrollo de software duro**. Corresponden a distintos momentos y niveles de la carrera (Niveles 1, 2, 4, 6 y 9) enfocadas en pensamiento sistémico, física conceptual, redacción científica, marco constitucional, inglés técnico y ética profesional.
 
 > [!TIP]
 > **Pensum Oficial (Programa 506 - Versión 5):**  
@@ -12,16 +14,16 @@ A menudo se subestiman estas materias considerándolas "teóricas"; sin embargo,
 
 ---
 
-## 📋 Lista de Asignaturas y Enlaces a sus Proyectos
+## 📋 Lista de Asignaturas, Niveles y Enlaces a sus Proyectos
 
-| # | Código | Asignatura | Enfoque / Aplicación Técnica | Enlace al Documento |
-| :-: | :---: | :--- | :--- | :--- |
-| **01** | 2554120 | **Introducción a la Ingeniería de Sistemas** | Pensamiento Sistémico, Ecosistema de TI y Plan de Carrera | [Ver Proyectos](01_2554120_introduccion_a_la_ingenieria_de_sistemas.md) |
-| **02** | 2567101 | **Descubriendo la Física** | Simulación Computacional Multidisciplinar y Telecomunicaciones | [Ver Proyectos](02_2567101_descubriendo_la_fisica.md) |
-| **03** | 2539130 | **Español Académico** | Redacción Científica APA 7ma ed. y Comunicación Oral de Ingeniería | [Ver Proyectos](03_2539130_espanol_academico.md) |
-| **04** | 2517450 | **Cátedra de Formación Ciudadana y Constitucional** | Tecnología Cívica (LegalTech / GovTech) y Datos Abiertos del Estado | [Ver Proyectos](04_2517450_catedra_de_formacion_ciudadana_y_constitucional.md) |
-| **05** | 2554836 | **Ética Profesional** | Auditoría de Sesgos en IA (Fairness) y Régimen Legal (Ley 842 / ACM) | [Ver Proyectos](05_2554836_etica_profesional.md) |
-| **06** | 9025105 | **English 5 (Technical English)** | Documentación OpenAPI en Inglés y Simulación de Entrevistas Globales | [Ver Proyectos](06_9025105_english_5.md) |
+| # | Nivel | Código | Créditos | Asignatura | Enfoque / Aplicación | Enlace al Documento |
+| :-: | :-: | :---: | :-: | :--- | :--- | :--- |
+| **01** | **1** | 2554120 | 1 | **Introducción a la Ingeniería de Sistemas** | Pensamiento Sistémico, Ecosistema de TI y Plan de Carrera | [Ver Proyectos](01_2554120_introduccion_a_la_ingenieria_de_sistemas.md) |
+| **02** | **1** | 2567101 | 3 | **Descubriendo la Física** | Simulación Computacional Multidisciplinar y Telecomunicaciones | [Ver Proyectos](02_2567101_descubriendo_la_fisica.md) |
+| **03** | **2** | 2539130 | 3 | **Español Académico** | Redacción Científica APA 7ma ed. y Comunicación Oral de Ingeniería | [Ver Proyectos](03_2539130_espanol_academico.md) |
+| **04** | **4** | 2517450 | 1 | **Cátedra de Formación Ciudadana y Constitucional** | Tecnología Cívica (LegalTech / GovTech) y Datos Abiertos del Estado | [Ver Proyectos](04_2517450_catedra_de_formacion_ciudadana_y_constitucional.md) |
+| **05** | **6** | 9025105 | 2 | **English 5 (Technical English for Engineers)** | Documentación OpenAPI en Inglés y Comunicación Técnica Global | [Ver Proyectos](06_9025105_english_5.md) |
+| **06** | **9** | 2554836 | 1 | **Ética Profesional** | Auditoría de Sesgos en IA (Fairness) y Régimen Legal (Ley 842 / ACM) | [Ver Proyectos](05_2554836_etica_profesional.md) |
 
 ---
 
