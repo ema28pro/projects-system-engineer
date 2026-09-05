@@ -47,25 +47,25 @@ proyectos x materias/
 
 | # | Nivel | Código | Créditos | Asignatura | Guía de Proyectos |
 | :-: | :-: | :---: | :-: | :--- | :--- |
-| 01 | **1** | 2559101 | 3 | **Álgebra y Trigonometría** | [Ver Guía](proyectos_materias_vistas/19_2559101_algebra_y_trigonometria.md) |
-| 02 | **1** | 2559121 | 3 | **Geometría Vectorial y Analítica** | [Ver Guía](proyectos_materias_vistas/01_2559121_geometria_vectorial_y_analitica.md) |
-| 03 | **1** | 2559131 | 3 | **Cálculo Diferencial** | [Ver Guía](proyectos_materias_vistas/02_2559131_calculo_diferencial.md) |
-| 04 | **2** | 2554207 | 3 | **Matemáticas Discretas I** | [Ver Guía](proyectos_materias_vistas/06_2554207_matematicas_discretas_I.md) |
-| 05 | **2** | 2554208 | 3 | **Lógica y Representación I** | [Ver Guía](proyectos_materias_vistas/08_2554208_logica_y_representacion_I.md) |
-| 06 | **2** | 2559221 | 3 | **Álgebra Lineal** | [Ver Guía](proyectos_materias_vistas/04_2559221_algebra_lineal.md) |
-| 07 | **2** | 2559231 | 3 | **Cálculo Integral** | [Ver Guía](proyectos_materias_vistas/03_2559231_calculo_integral.md) |
-| 08 | **3** | 2554303 | 3 | **Matemáticas Discretas II** | [Ver Guía](proyectos_materias_vistas/07_2554303_matematicas_discretas_II.md) |
+| 01 | **1** | 2559101 | 3 | **Álgebra y Trigonometría** | [Ver Guía](proyectos_materias_vistas/01_2559101_algebra_y_trigonometria.md) |
+| 02 | **1** | 2559121 | 3 | **Geometría Vectorial y Analítica** | [Ver Guía](proyectos_materias_vistas/02_2559121_geometria_vectorial_y_analitica.md) |
+| 03 | **1** | 2559131 | 3 | **Cálculo Diferencial** | [Ver Guía](proyectos_materias_vistas/03_2559131_calculo_diferencial.md) |
+| 04 | **2** | 2554207 | 3 | **Matemáticas Discretas I** | [Ver Guía](proyectos_materias_vistas/04_2554207_matematicas_discretas_I.md) |
+| 05 | **2** | 2554208 | 3 | **Lógica y Representación I** | [Ver Guía](proyectos_materias_vistas/05_2554208_logica_y_representacion_I.md) |
+| 06 | **2** | 2559221 | 3 | **Álgebra Lineal** | [Ver Guía](proyectos_materias_vistas/06_2559221_algebra_lineal.md) |
+| 07 | **2** | 2559231 | 3 | **Cálculo Integral** | [Ver Guía](proyectos_materias_vistas/07_2559231_calculo_integral.md) |
+| 08 | **3** | 2554303 | 3 | **Matemáticas Discretas II** | [Ver Guía](proyectos_materias_vistas/08_2554303_matematicas_discretas_II.md) |
 | 09 | **3** | 2554306 | 3 | **Lógica y Representación II** | [Ver Guía](proyectos_materias_vistas/09_2554306_logica_y_representacion_II.md) |
-| 10 | **3** | 2554307 | 4 | **Técnicas de Programación y Laboratorio** | [Ver Guía](proyectos_materias_vistas/11_2554307_tecnicas_de_programacion_y_laboratorio.md) |
-| 11 | **3** | 2567201 | 3 | **Física Mecánica** | [Ver Guía](proyectos_materias_vistas/05_2567201_fisica_mecanica.md) |
-| 12 | **3** | 2554308 | 4 | **Teoría de la Probabilidad y Colas** | [Ver Guía](proyectos_materias_vistas/16_2554308_teoria_de_la_probabilidad_y_colas.md) |
-| 13 | **4** | 2554402 | 4 | **Lógica y Representación III** | [Ver Guía](proyectos_materias_vistas/10_2554402_logica_y_representacion_III.md) |
+| 10 | **3** | 2554307 | 4 | **Técnicas de Programación y Laboratorio** | [Ver Guía](proyectos_materias_vistas/10_2554307_tecnicas_de_programacion_y_laboratorio.md) |
+| 11 | **3** | 2567201 | 3 | **Física Mecánica** | [Ver Guía](proyectos_materias_vistas/11_2567201_fisica_mecanica.md) |
+| 12 | **3** | 2554308 | 4 | **Teoría de la Probabilidad y Colas** | [Ver Guía](proyectos_materias_vistas/12_2554308_teoria_de_la_probabilidad_y_colas.md) |
+| 13 | **4** | 2554402 | 4 | **Lógica y Representación III** | [Ver Guía](proyectos_materias_vistas/13_2554402_logica_y_representacion_III.md) |
 | 14 | **4** | 2554403 | 4 | **Análisis y Diseño de Sistemas I** | [Ver Guía](proyectos_materias_vistas/14_2554403_analisis_y_diseno_de_sistemas_I.md) |
-| 15 | **4** | 2554408 | 3 | **Métodos Estadísticos** | [Ver Guía](proyectos_materias_vistas/17_2554408_metodos_estadisticos.md) |
-| 16 | **4** | 2554407 | 3 | **Ecuaciones Diferenciales y Métodos Numéricos** | [Ver Guía](proyectos_materias_vistas/18_2554407_ecuaciones_diferenciales_y_metodos_numericos.md) |
-| 17 | **5** | 2554508 | 4 | **Teoría de Lenguajes y Laboratorio** | [Ver Guía](proyectos_materias_vistas/13_2554508_teoria_de_lenguajes_y_laboratorio.md) |
-| 18 | **5** | 2554506 | 3 | **Análisis y Diseño de Sistemas II** | [Ver Guía](proyectos_materias_vistas/15_2554506_analisis_y_diseno_de_sistemas_II.md) |
-| 19 | **5** | 2554507 | 4 | **Estructuras de Datos y Laboratorio** | [Ver Guía](proyectos_materias_vistas/12_2554507_estructuras_de_datos_y_laboratorio.md) |
+| 15 | **4** | 2554408 | 3 | **Métodos Estadísticos** | [Ver Guía](proyectos_materias_vistas/15_2554408_metodos_estadisticos.md) |
+| 16 | **4** | 2554407 | 3 | **Ecuaciones Diferenciales y Métodos Numéricos** | [Ver Guía](proyectos_materias_vistas/16_2554407_ecuaciones_diferenciales_y_metodos_numericos.md) |
+| 17 | **5** | 2554508 | 4 | **Teoría de Lenguajes y Laboratorio** | [Ver Guía](proyectos_materias_vistas/17_2554508_teoria_de_lenguajes_y_laboratorio.md) |
+| 18 | **5** | 2554506 | 3 | **Análisis y Diseño de Sistemas II** | [Ver Guía](proyectos_materias_vistas/18_2554506_analisis_y_diseno_de_sistemas_II.md) |
+| 19 | **5** | 2554507 | 4 | **Estructuras de Datos y Laboratorio** | [Ver Guía](proyectos_materias_vistas/19_2554507_estructuras_de_datos_y_laboratorio.md) |
 
 ---
 

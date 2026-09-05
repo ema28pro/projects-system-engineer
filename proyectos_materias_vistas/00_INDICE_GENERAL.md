@@ -19,57 +19,57 @@ Bienvenido a la guía exhaustiva de proyectos de software, algoritmia y modelado
 ### 📌 Nivel 1
 | Código | Créditos | Asignatura | Enlace al Documento de Proyectos |
 | :---: | :---: | :--- | :--- |
-| 2559101 | 3 | **Álgebra y Trigonometría** | [Ver Proyectos](19_2559101_algebra_y_trigonometria.md) |
-| 2559121 | 3 | **Geometría Vectorial y Analítica** | [Ver Proyectos](01_2559121_geometria_vectorial_y_analitica.md) |
-| 2559131 | 3 | **Cálculo Diferencial** | [Ver Proyectos](02_2559131_calculo_diferencial.md) |
+| 2559101 | 3 | **Álgebra y Trigonometría** | [Ver Proyectos](01_2559101_algebra_y_trigonometria.md) |
+| 2559121 | 3 | **Geometría Vectorial y Analítica** | [Ver Proyectos](02_2559121_geometria_vectorial_y_analitica.md) |
+| 2559131 | 3 | **Cálculo Diferencial** | [Ver Proyectos](03_2559131_calculo_diferencial.md) |
 
 ### 📌 Nivel 2
 | Código | Créditos | Asignatura | Enlace al Documento de Proyectos |
 | :---: | :---: | :--- | :--- |
-| 2554207 | 3 | **Matemáticas Discretas I** | [Ver Proyectos](06_2554207_matematicas_discretas_I.md) |
-| 2554208 | 3 | **Lógica y Representación I** | [Ver Proyectos](08_2554208_logica_y_representacion_I.md) |
-| 2559221 | 3 | **Álgebra Lineal** | [Ver Proyectos](04_2559221_algebra_lineal.md) |
-| 2559231 | 3 | **Cálculo Integral** | [Ver Proyectos](03_2559231_calculo_integral.md) |
+| 2554207 | 3 | **Matemáticas Discretas I** | [Ver Proyectos](04_2554207_matematicas_discretas_I.md) |
+| 2554208 | 3 | **Lógica y Representación I** | [Ver Proyectos](05_2554208_logica_y_representacion_I.md) |
+| 2559221 | 3 | **Álgebra Lineal** | [Ver Proyectos](06_2559221_algebra_lineal.md) |
+| 2559231 | 3 | **Cálculo Integral** | [Ver Proyectos](07_2559231_calculo_integral.md) |
 
 ### 📌 Nivel 3
 | Código | Créditos | Asignatura | Enlace al Documento de Proyectos |
 | :---: | :---: | :--- | :--- |
-| 2554303 | 3 | **Matemáticas Discretas II** | [Ver Proyectos](07_2554303_matematicas_discretas_II.md) |
+| 2554303 | 3 | **Matemáticas Discretas II** | [Ver Proyectos](08_2554303_matematicas_discretas_II.md) |
 | 2554306 | 3 | **Lógica y Representación II** | [Ver Proyectos](09_2554306_logica_y_representacion_II.md) |
-| 2554307 | 4 | **Técnicas de Programación y Laboratorio** | [Ver Proyectos](11_2554307_tecnicas_de_programacion_y_laboratorio.md) |
-| 2567201 | 3 | **Física Mecánica** | [Ver Proyectos](05_2567201_fisica_mecanica.md) |
-| 2554308 | 4 | **Teoría de la Probabilidad y Colas** | [Ver Proyectos](16_2554308_teoria_de_la_probabilidad_y_colas.md) |
+| 2554307 | 4 | **Técnicas de Programación y Laboratorio** | [Ver Proyectos](10_2554307_tecnicas_de_programacion_y_laboratorio.md) |
+| 2567201 | 3 | **Física Mecánica** | [Ver Proyectos](11_2567201_fisica_mecanica.md) |
+| 2554308 | 4 | **Teoría de la Probabilidad y Colas** | [Ver Proyectos](12_2554308_teoria_de_la_probabilidad_y_colas.md) |
 
 ### 📌 Nivel 4
 | Código | Créditos | Asignatura | Enlace al Documento de Proyectos |
 | :---: | :---: | :--- | :--- |
-| 2554402 | 4 | **Lógica y Representación III** | [Ver Proyectos](10_2554402_logica_y_representacion_III.md) |
+| 2554402 | 4 | **Lógica y Representación III** | [Ver Proyectos](13_2554402_logica_y_representacion_III.md) |
 | 2554403 | 4 | **Análisis y Diseño de Sistemas I** | [Ver Proyectos](14_2554403_analisis_y_diseno_de_sistemas_I.md) |
-| 2554408 | 3 | **Métodos Estadísticos** | [Ver Proyectos](17_2554408_metodos_estadisticos.md) |
-| 2554407 | 3 | **Ecuaciones Diferenciales y Métodos Numéricos** | [Ver Proyectos](18_2554407_ecuaciones_diferenciales_y_metodos_numericos.md) |
+| 2554408 | 3 | **Métodos Estadísticos** | [Ver Proyectos](15_2554408_metodos_estadisticos.md) |
+| 2554407 | 3 | **Ecuaciones Diferenciales y Métodos Numéricos** | [Ver Proyectos](16_2554407_ecuaciones_diferenciales_y_metodos_numericos.md) |
 
 ### 📌 Nivel 5
 | Código | Créditos | Asignatura | Enlace al Documento de Proyectos |
 | :---: | :---: | :--- | :--- |
-| 2554508 | 4 | **Teoría de Lenguajes y Laboratorio** | [Ver Proyectos](13_2554508_teoria_de_lenguajes_y_laboratorio.md) |
-| 2554506 | 3 | **Análisis y Diseño de Sistemas II** | [Ver Proyectos](15_2554506_analisis_y_diseno_de_sistemas_II.md) |
-| 2554507 | 4 | **Estructuras de Datos y Laboratorio** | [Ver Proyectos](12_2554507_estructuras_de_datos_y_laboratorio.md) |
+| 2554508 | 4 | **Teoría de Lenguajes y Laboratorio** | [Ver Proyectos](17_2554508_teoria_de_lenguajes_y_laboratorio.md) |
+| 2554506 | 3 | **Análisis y Diseño de Sistemas II** | [Ver Proyectos](18_2554506_analisis_y_diseno_de_sistemas_II.md) |
+| 2554507 | 4 | **Estructuras de Datos y Laboratorio** | [Ver Proyectos](19_2554507_estructuras_de_datos_y_laboratorio.md) |
 
 ---
 
 ## 🗺️ Clasificación por Ejes Formativos
 
-Los 18 cursos también pueden analizarse a través de 4 grandes ejes formativos:
+Los 19 cursos también pueden analizarse a través de 4 grandes ejes formativos:
 
 ### 💻 Eje 1: Programación, Algoritmia y Big Data
 | # | Código | Asignatura | Enlace al Documento de Proyectos |
 | :-: | :---: | :--- | :--- |
-| **08** | 2554208 | **Lógica y Representación I** | [Ver Proyectos](08_2554208_logica_y_representacion_I.md) |
+| **05** | 2554208 | **Lógica y Representación I** | [Ver Proyectos](05_2554208_logica_y_representacion_I.md) |
 | **09** | 2554306 | **Lógica y Representación II** | [Ver Proyectos](09_2554306_logica_y_representacion_II.md) |
-| **10** | 2554402 | **Lógica y Representación III** | [Ver Proyectos](10_2554402_logica_y_representacion_III.md) |
-| **11** | 2554307 | **Técnicas de Programación y Laboratorio** | [Ver Proyectos](11_2554307_tecnicas_de_programacion_y_laboratorio.md) |
-| **12** | 2554507 | **Estructuras de Datos y Laboratorio** | [Ver Proyectos](12_2554507_estructuras_de_datos_y_laboratorio.md) |
-| **13** | 2554508 | **Teoría de Lenguajes y Laboratorio** | [Ver Proyectos](13_2554508_teoria_de_lenguajes_y_laboratorio.md) |
+| **13** | 2554402 | **Lógica y Representación III** | [Ver Proyectos](13_2554402_logica_y_representacion_III.md) |
+| **10** | 2554307 | **Técnicas de Programación y Laboratorio** | [Ver Proyectos](10_2554307_tecnicas_de_programacion_y_laboratorio.md) |
+| **19** | 2554507 | **Estructuras de Datos y Laboratorio** | [Ver Proyectos](19_2554507_estructuras_de_datos_y_laboratorio.md) |
+| **17** | 2554508 | **Teoría de Lenguajes y Laboratorio** | [Ver Proyectos](17_2554508_teoria_de_lenguajes_y_laboratorio.md) |
 
 ---
 
@@ -77,30 +77,30 @@ Los 18 cursos también pueden analizarse a través de 4 grandes ejes formativos:
 | # | Código | Asignatura | Enlace al Documento de Proyectos |
 | :-: | :---: | :--- | :--- |
 | **14** | 2554403 | **Análisis y Diseño de Sistemas I** | [Ver Proyectos](14_2554403_analisis_y_diseno_de_sistemas_I.md) |
-| **15** | 2554506 | **Análisis y Diseño de Sistemas II** | [Ver Proyectos](15_2554506_analisis_y_diseno_de_sistemas_II.md) |
+| **18** | 2554506 | **Análisis y Diseño de Sistemas II** | [Ver Proyectos](18_2554506_analisis_y_diseno_de_sistemas_II.md) |
 
 ---
 
 ### 📊 Eje 3: Probabilidad, Estadística y Modelos Estocásticos
 | # | Código | Asignatura | Enlace al Documento de Proyectos |
 | :-: | :---: | :--- | :--- |
-| **16** | 2554308 | **Teoría de la Probabilidad y Colas** | [Ver Proyectos](16_2554308_teoria_de_la_probabilidad_y_colas.md) |
-| **17** | 2554408 | **Métodos Estadísticos** | [Ver Proyectos](17_2554408_metodos_estadisticos.md) |
+| **12** | 2554308 | **Teoría de la Probabilidad y Colas** | [Ver Proyectos](12_2554308_teoria_de_la_probabilidad_y_colas.md) |
+| **15** | 2554408 | **Métodos Estadísticos** | [Ver Proyectos](15_2554408_metodos_estadisticos.md) |
 
 ---
 
 ### 📐 Eje 4: Matemáticas Computacionales y Ciencias Básicas
 | # | Código | Asignatura | Enlace al Documento de Proyectos |
 | :-: | :---: | :--- | :--- |
-| **19** | 2559101 | **Álgebra y Trigonometría** | [Ver Proyectos](19_2559101_algebra_y_trigonometria.md) |
-| **01** | 2559121 | **Geometría Vectorial y Analítica** | [Ver Proyectos](01_2559121_geometria_vectorial_y_analitica.md) |
-| **02** | 2559131 | **Cálculo Diferencial** | [Ver Proyectos](02_2559131_calculo_diferencial.md) |
-| **03** | 2559231 | **Cálculo Integral** | [Ver Proyectos](03_2559231_calculo_integral.md) |
-| **04** | 2559221 | **Álgebra Lineal** | [Ver Proyectos](04_2559221_algebra_lineal.md) |
-| **05** | 2567201 | **Física Mecánica** | [Ver Proyectos](05_2567201_fisica_mecanica.md) |
-| **06** | 2554207 | **Matemáticas Discretas I** | [Ver Proyectos](06_2554207_matematicas_discretas_I.md) |
-| **07** | 2554303 | **Matemáticas Discretas II** | [Ver Proyectos](07_2554303_matematicas_discretas_II.md) |
-| **18** | 2554407 | **Ecuaciones Diferenciales y Métodos Numéricos** | [Ver Proyectos](18_2554407_ecuaciones_diferenciales_y_metodos_numericos.md) |
+| **01** | 2559101 | **Álgebra y Trigonometría** | [Ver Proyectos](01_2559101_algebra_y_trigonometria.md) |
+| **02** | 2559121 | **Geometría Vectorial y Analítica** | [Ver Proyectos](02_2559121_geometria_vectorial_y_analitica.md) |
+| **03** | 2559131 | **Cálculo Diferencial** | [Ver Proyectos](03_2559131_calculo_diferencial.md) |
+| **07** | 2559231 | **Cálculo Integral** | [Ver Proyectos](07_2559231_calculo_integral.md) |
+| **06** | 2559221 | **Álgebra Lineal** | [Ver Proyectos](06_2559221_algebra_lineal.md) |
+| **11** | 2567201 | **Física Mecánica** | [Ver Proyectos](11_2567201_fisica_mecanica.md) |
+| **04** | 2554207 | **Matemáticas Discretas I** | [Ver Proyectos](04_2554207_matematicas_discretas_I.md) |
+| **08** | 2554303 | **Matemáticas Discretas II** | [Ver Proyectos](08_2554303_matematicas_discretas_II.md) |
+| **16** | 2554407 | **Ecuaciones Diferenciales y Métodos Numéricos** | [Ver Proyectos](16_2554407_ecuaciones_diferenciales_y_metodos_numericos.md) |
 
 ---
 
