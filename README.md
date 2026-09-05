@@ -3,7 +3,7 @@
 
 Bienvenido al repositorio central de diseño y especificación técnica de proyectos de software, algoritmia, infraestructura, matemáticas aplicadas y modelado computacional.
 
-Este repositorio consolida **más de 80 proyectos de portafolio de nivel profesional ideados con asistencia de Inteligencia Artificial (IA)**, diseñados rigurosamente con base en los **37 microcurrículos oficiales** aprobados por el Consejo de la Facultad de Ingeniería de la Universidad de Antioquia. Cada guía de proyecto detalla problemas del mundo real, correspondencia con las unidades temáticas de los PDFs, requerimientos funcionales, arquitecturas de software, stacks tecnológicos recomendados y su impacto en entrevistas técnicas.
+Este repositorio consolida **más de 85 proyectos de portafolio de nivel profesional ideados con asistencia de Inteligencia Artificial (IA)**, diseñados rigurosamente con base en los **38 microcurrículos oficiales** aprobados por el Consejo de la Facultad de Ingeniería de la Universidad de Antioquia. Cada guía de proyecto detalla problemas del mundo real, correspondencia con las unidades temáticas de los PDFs, requerimientos funcionales, arquitecturas de software, stacks tecnológicos recomendados y su impacto en entrevistas técnicas.
 
 > [!TIP]
 > **Plan de Estudios Oficial en Cursum UdeA (Programa 506 - Versión 5):**  
@@ -21,8 +21,8 @@ proyectos x materias/
 │
 ├── README.md                              <-- Este documento (Guía Maestra y Malla Curricular)
 │
-├── materias_vistas/                       <-- 18 PDFs oficiales (Asignaturas cursadas: Niveles 1 al 5)
-├── proyectos_materias_vistas/             <-- 18 Guías Markdown con proyectos técnicos (Niveles 1 al 5)
+├── materias_vistas/                       <-- 19 PDFs oficiales (Asignaturas cursadas: Niveles 1 al 5)
+├── proyectos_materias_vistas/             <-- 19 Guías Markdown con proyectos técnicos (Niveles 1 al 5)
 │
 ├── materias_por_ver/                      <-- 14 PDFs oficiales (Asignaturas avanzadas: Niveles 6, 7 y 8)
 ├── proyectos_materias_por_ver/            <-- 14 Guías Markdown con proyectos de ciclo profesional
@@ -47,24 +47,25 @@ proyectos x materias/
 
 | # | Nivel | Código | Créditos | Asignatura | Guía de Proyectos |
 | :-: | :-: | :---: | :-: | :--- | :--- |
-| 01 | **1** | 2559121 | 3 | **Geometría Vectorial y Analítica** | [Ver Guía](proyectos_materias_vistas/01_2559121_geometria_vectorial_y_analitica.md) |
-| 02 | **1** | 2559131 | 3 | **Cálculo Diferencial** | [Ver Guía](proyectos_materias_vistas/02_2559131_calculo_diferencial.md) |
-| 03 | **2** | 2554207 | 3 | **Matemáticas Discretas I** | [Ver Guía](proyectos_materias_vistas/06_2554207_matematicas_discretas_I.md) |
-| 04 | **2** | 2554208 | 3 | **Lógica y Representación I** | [Ver Guía](proyectos_materias_vistas/08_2554208_logica_y_representacion_I.md) |
-| 05 | **2** | 2559221 | 3 | **Álgebra Lineal** | [Ver Guía](proyectos_materias_vistas/04_2559221_algebra_lineal.md) |
-| 06 | **2** | 2559231 | 3 | **Cálculo Integral** | [Ver Guía](proyectos_materias_vistas/03_2559231_calculo_integral.md) |
-| 07 | **3** | 2554303 | 3 | **Matemáticas Discretas II** | [Ver Guía](proyectos_materias_vistas/07_2554303_matematicas_discretas_II.md) |
-| 08 | **3** | 2554306 | 3 | **Lógica y Representación II** | [Ver Guía](proyectos_materias_vistas/09_2554306_logica_y_representacion_II.md) |
-| 09 | **3** | 2554307 | 4 | **Técnicas de Programación y Laboratorio** | [Ver Guía](proyectos_materias_vistas/11_2554307_tecnicas_de_programacion_y_laboratorio.md) |
-| 10 | **3** | 2567201 | 3 | **Física Mecánica** | [Ver Guía](proyectos_materias_vistas/05_2567201_fisica_mecanica.md) |
-| 11 | **3** | 2554308 | 4 | **Teoría de la Probabilidad y Colas** | [Ver Guía](proyectos_materias_vistas/16_2554308_teoria_de_la_probabilidad_y_colas.md) |
-| 12 | **4** | 2554402 | 4 | **Lógica y Representación III** | [Ver Guía](proyectos_materias_vistas/10_2554402_logica_y_representacion_III.md) |
-| 13 | **4** | 2554403 | 4 | **Análisis y Diseño de Sistemas I** | [Ver Guía](proyectos_materias_vistas/14_2554403_analisis_y_diseno_de_sistemas_I.md) |
-| 14 | **4** | 2554408 | 3 | **Métodos Estadísticos** | [Ver Guía](proyectos_materias_vistas/17_2554408_metodos_estadisticos.md) |
-| 15 | **4** | 2554407 | 3 | **Ecuaciones Diferenciales y Métodos Numéricos** | [Ver Guía](proyectos_materias_vistas/18_2554407_ecuaciones_diferenciales_y_metodos_numericos.md) |
-| 16 | **5** | 2554508 | 4 | **Teoría de Lenguajes y Laboratorio** | [Ver Guía](proyectos_materias_vistas/13_2554508_teoria_de_lenguajes_y_laboratorio.md) |
-| 17 | **5** | 2554506 | 3 | **Análisis y Diseño de Sistemas II** | [Ver Guía](proyectos_materias_vistas/15_2554506_analisis_y_diseno_de_sistemas_II.md) |
-| 18 | **5** | 2554507 | 4 | **Estructuras de Datos y Laboratorio** | [Ver Guía](proyectos_materias_vistas/12_2554507_estructuras_de_datos_y_laboratorio.md) |
+| 01 | **1** | 2559101 | 3 | **Álgebra y Trigonometría** | [Ver Guía](proyectos_materias_vistas/19_2559101_algebra_y_trigonometria.md) |
+| 02 | **1** | 2559121 | 3 | **Geometría Vectorial y Analítica** | [Ver Guía](proyectos_materias_vistas/01_2559121_geometria_vectorial_y_analitica.md) |
+| 03 | **1** | 2559131 | 3 | **Cálculo Diferencial** | [Ver Guía](proyectos_materias_vistas/02_2559131_calculo_diferencial.md) |
+| 04 | **2** | 2554207 | 3 | **Matemáticas Discretas I** | [Ver Guía](proyectos_materias_vistas/06_2554207_matematicas_discretas_I.md) |
+| 05 | **2** | 2554208 | 3 | **Lógica y Representación I** | [Ver Guía](proyectos_materias_vistas/08_2554208_logica_y_representacion_I.md) |
+| 06 | **2** | 2559221 | 3 | **Álgebra Lineal** | [Ver Guía](proyectos_materias_vistas/04_2559221_algebra_lineal.md) |
+| 07 | **2** | 2559231 | 3 | **Cálculo Integral** | [Ver Guía](proyectos_materias_vistas/03_2559231_calculo_integral.md) |
+| 08 | **3** | 2554303 | 3 | **Matemáticas Discretas II** | [Ver Guía](proyectos_materias_vistas/07_2554303_matematicas_discretas_II.md) |
+| 09 | **3** | 2554306 | 3 | **Lógica y Representación II** | [Ver Guía](proyectos_materias_vistas/09_2554306_logica_y_representacion_II.md) |
+| 10 | **3** | 2554307 | 4 | **Técnicas de Programación y Laboratorio** | [Ver Guía](proyectos_materias_vistas/11_2554307_tecnicas_de_programacion_y_laboratorio.md) |
+| 11 | **3** | 2567201 | 3 | **Física Mecánica** | [Ver Guía](proyectos_materias_vistas/05_2567201_fisica_mecanica.md) |
+| 12 | **3** | 2554308 | 4 | **Teoría de la Probabilidad y Colas** | [Ver Guía](proyectos_materias_vistas/16_2554308_teoria_de_la_probabilidad_y_colas.md) |
+| 13 | **4** | 2554402 | 4 | **Lógica y Representación III** | [Ver Guía](proyectos_materias_vistas/10_2554402_logica_y_representacion_III.md) |
+| 14 | **4** | 2554403 | 4 | **Análisis y Diseño de Sistemas I** | [Ver Guía](proyectos_materias_vistas/14_2554403_analisis_y_diseno_de_sistemas_I.md) |
+| 15 | **4** | 2554408 | 3 | **Métodos Estadísticos** | [Ver Guía](proyectos_materias_vistas/17_2554408_metodos_estadisticos.md) |
+| 16 | **4** | 2554407 | 3 | **Ecuaciones Diferenciales y Métodos Numéricos** | [Ver Guía](proyectos_materias_vistas/18_2554407_ecuaciones_diferenciales_y_metodos_numericos.md) |
+| 17 | **5** | 2554508 | 4 | **Teoría de Lenguajes y Laboratorio** | [Ver Guía](proyectos_materias_vistas/13_2554508_teoria_de_lenguajes_y_laboratorio.md) |
+| 18 | **5** | 2554506 | 3 | **Análisis y Diseño de Sistemas II** | [Ver Guía](proyectos_materias_vistas/15_2554506_analisis_y_diseno_de_sistemas_II.md) |
+| 19 | **5** | 2554507 | 4 | **Estructuras de Datos y Laboratorio** | [Ver Guía](proyectos_materias_vistas/12_2554507_estructuras_de_datos_y_laboratorio.md) |
 
 ---
 

@@ -1,7 +1,7 @@
 # Hoja de Ruta y Portafolio de Proyectos por Materia (Materias Vistas)
 ### Programa Oficial de Ingeniería de Sistemas – Universidad de Antioquia (UdeA)
 
-Bienvenido a la guía exhaustiva de proyectos de software, algoritmia y modelado matemático para las **18 materias técnicas vistas**.
+Bienvenido a la guía exhaustiva de proyectos de software, algoritmia y modelado matemático para las **19 materias técnicas vistas**.
 
 > [!NOTE]
 > **Organización por Niveles:**  
@@ -19,6 +19,7 @@ Bienvenido a la guía exhaustiva de proyectos de software, algoritmia y modelado
 ### 📌 Nivel 1
 | Código | Créditos | Asignatura | Enlace al Documento de Proyectos |
 | :---: | :---: | :--- | :--- |
+| 2559101 | 3 | **Álgebra y Trigonometría** | [Ver Proyectos](19_2559101_algebra_y_trigonometria.md) |
 | 2559121 | 3 | **Geometría Vectorial y Analítica** | [Ver Proyectos](01_2559121_geometria_vectorial_y_analitica.md) |
 | 2559131 | 3 | **Cálculo Diferencial** | [Ver Proyectos](02_2559131_calculo_diferencial.md) |
 
@@ -91,6 +92,7 @@ Los 18 cursos también pueden analizarse a través de 4 grandes ejes formativos:
 ### 📐 Eje 4: Matemáticas Computacionales y Ciencias Básicas
 | # | Código | Asignatura | Enlace al Documento de Proyectos |
 | :-: | :---: | :--- | :--- |
+| **19** | 2559101 | **Álgebra y Trigonometría** | [Ver Proyectos](19_2559101_algebra_y_trigonometria.md) |
 | **01** | 2559121 | **Geometría Vectorial y Analítica** | [Ver Proyectos](01_2559121_geometria_vectorial_y_analitica.md) |
 | **02** | 2559131 | **Cálculo Diferencial** | [Ver Proyectos](02_2559131_calculo_diferencial.md) |
 | **03** | 2559231 | **Cálculo Integral** | [Ver Proyectos](03_2559231_calculo_integral.md) |
